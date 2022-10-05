@@ -1,7 +1,7 @@
 lst = ["very easy", "very easy", "easy", "easy", "medium", "medium", "hard", "hard"]
 scores=[]
 total_score =[]
-student_scores =[[2, 3, 8, 6, 5, 12, 10, 18], 86]
+student_scores = [[5, 5, 10, 10, 15, 15, 20, 20], 120]
 value =0
 result =""
 def candidate_status(lst,total_score,Total,student_scores):
